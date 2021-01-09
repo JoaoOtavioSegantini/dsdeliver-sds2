@@ -9,13 +9,13 @@ function Footer() {
            App desenvolvido durante a 2ª ed. do evento Semana DevSuperior
            <div className="footer-icons">
                <a href="https://www.youtube.com/channel/UC8tqZtzh7fPEQ2TKQpPswUQ/videos" target="_new">
-                   <Youtube/>
+                   <Youtube title="Youtube - Câmara Municipal"/>
                </a>
                <a href="https://www.linkedin.com/in/joao-seggga-a53b16122/" target="_new">
-                     <Linkedin/>
+                     <Linkedin title="Meu Linkedin"/>
                </a>
                <a href="https://www.instagram.com/joaotavioos/" target="_new">
-                    <Instagram/>
+                    <Instagram title="Meu Instagram" />
                </a>
            </div>
        </footer>
