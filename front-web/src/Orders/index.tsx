@@ -10,6 +10,7 @@ import StepsHeader from './StepsHeader'
 import './styles.css'
 import { OrderLocationData, Product } from './types';
 
+
 function Orders () {
 
     const [products, setProducts] = useState<Product[]>([]);
